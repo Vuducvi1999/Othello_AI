@@ -1,0 +1,2 @@
+﻿Chào thầy , thầy hãy sử dụng visual studio và chạy trên nền tảng .NET Framework 2.0 bằng cách vào đường dẫn như sau trong visual studio :
+Project -> Properties -> Application .
